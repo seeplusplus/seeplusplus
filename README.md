@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Caleb Webber (@seeplusplus)
-- 👀 I like Rust, cloud architecture, and software craftsmanship.
+- 👀 I'm a full-stack dev. I work mostly with AstroJS, SolidJS, Angular, .NET, and Rust.
 
