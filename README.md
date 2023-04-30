@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Caleb Webber (@seeplusplus)
-- 👀 I'm a full-stack dev. I work mostly with AstroJS, SolidJS, Angular, .NET, and Rust.
-
+Passionate about making apps that make peoples' lives better. I like solving problems with code and learning new things. Currently @snagajob writing Angular. Casual Rust enthusiast.
